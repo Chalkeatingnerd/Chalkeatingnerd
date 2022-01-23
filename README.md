@@ -21,6 +21,8 @@ I'm a **web application developer** currently working at FFG(Fukuoka Financial G
     <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazonaws&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=ffffff"/>
 </div>
 
 ---
