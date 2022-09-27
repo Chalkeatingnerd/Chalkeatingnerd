@@ -4,7 +4,7 @@
 
 I'm EunKwang from Korea 🇰🇷
 
-I'm a **web application developer** currently working at FFG(Fukuoka Financial Group) in Fukuoka as a junior web developer.
+I'm a **web application developer** currently working at Yahoo Japan.
 
 #### Skills
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
@@ -15,6 +15,13 @@ I'm a **web application developer** currently working at FFG(Fukuoka Financial G
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff"/>
 </div>
 
+#### career history
+
+* GFO : android application developer (2020/08 ~ 2020/10)
+
+* FFG(Fukuoka Financial Group) : web application developer (2020/11 ~ 2022/09)
+
+* Yahoo Japan : web application developer (2022/10 ~ )
 
 #### Etc
 <div style="display: flex; gap: 5px; margin-bottom: 10px;">
@@ -29,7 +36,7 @@ I'm a **web application developer** currently working at FFG(Fukuoka Financial G
 
 #### Language Skiils
 
-- Korean : native language
-- English : fluent (speaking, listening, writing)
-- Japanese : business level
+- Korean : Native   
+- English : Advanced(C1)
+- Japanese : Upper Intermediate(B2)
 
